@@ -27,6 +27,7 @@ CONTACT WITH <a href="https://github.com/RJ-Shuvo"><b>RJ-Shuvo </a> </br><br>
 ```
 #### RUN SCRIPT
 ```python
+ git pull
  cd RJ-DUMPING-PRO
  python RS-FILE-MAKE.py
 ```
